@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankhadeep Debdas</h1>
-<h3 align="center">A aspiring Computer Scientist from India</h3>
+<h3 align="center">A Aspiring Computer Scientist/Dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeslayed&label=Profile%20views&color=0e75b6&style=flat" alt="codeslayed" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Game Development**
 
-- 💬 Ask me about **Python, Java, Machine Learning.**
+- 💬 Ask me about **Python, Java, JS.**
 
 - 📫 How to reach me **sankhadeepdebdas@gmail.com**
 
-- ⚡ Fun fact **I think i learn anything in under a month.**
+- ⚡ Fun fact **I learn anything in under a month.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
