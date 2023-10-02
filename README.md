@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sankhadeepdebdas@gmail.com**
 
-- ⚡ Fun fact **I learn anything in under a month.**
+- ⚡ Fun fact **I can learn anything in under a month.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
