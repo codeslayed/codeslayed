@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeslayed&label=Profile%20views&color=0e75b6&style=flat" alt="codeslayed" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Dev, C++, Web3.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👯 I’m looking to collaborate on **Full-Stack Web Application Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Research**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 💬 Ask me about **Python, Java, JS.**
 
