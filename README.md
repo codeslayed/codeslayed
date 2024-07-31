@@ -1,2 +1,4 @@
-[![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeslayed)](https://github.com/anuraghazra/github-readme-stats)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeslayed&layout=compact)
+<div align="center">
+<img alt="codeslayed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codeslayed&show_icons=true"/>
+<img alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeslayed&layout=donut"/>
+</div>
